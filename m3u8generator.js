@@ -8,7 +8,7 @@ const variants = [
     { resolution: '640x360', bitrate: '1100000' },
     // { resolution: '852x480', bitrate: '1460000' },
     // { resolution: '1280x720', bitrate: '3290000' },
-    // { resolution: '1920x1080', bitrate: '6610000' },
+    { resolution: '1920x1080', bitrate: '6610000' },
 ];
 
 variants.forEach((variant, index) => {
